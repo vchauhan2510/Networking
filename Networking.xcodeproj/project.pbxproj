@@ -13,6 +13,7 @@
 		CDC0A62B2BBB8B4A00B6F576 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDC0A6292BBB8B4A00B6F576 /* Main.storyboard */; };
 		CDC0A62D2BBB8B4B00B6F576 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDC0A62C2BBB8B4B00B6F576 /* Assets.xcassets */; };
 		CDC0A6302BBB8B4B00B6F576 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDC0A62E2BBB8B4B00B6F576 /* LaunchScreen.storyboard */; };
+		CDC0A6382BBB8B8500B6F576 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC0A6372BBB8B8500B6F576 /* Weather.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CDC0A62C2BBB8B4B00B6F576 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CDC0A62F2BBB8B4B00B6F576 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CDC0A6312BBB8B4B00B6F576 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDC0A6372BBB8B8500B6F576 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				CDC0A6252BBB8B4A00B6F576 /* SceneDelegate.swift */,
 				CDC0A6272BBB8B4A00B6F576 /* ViewController.swift */,
 				CDC0A6292BBB8B4A00B6F576 /* Main.storyboard */,
+				CDC0A6372BBB8B8500B6F576 /* Weather.swift */,
 				CDC0A62C2BBB8B4B00B6F576 /* Assets.xcassets */,
 				CDC0A62E2BBB8B4B00B6F576 /* LaunchScreen.storyboard */,
 				CDC0A6312BBB8B4B00B6F576 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDC0A6382BBB8B8500B6F576 /* Weather.swift in Sources */,
 				CDC0A6282BBB8B4A00B6F576 /* ViewController.swift in Sources */,
 				CDC0A6242BBB8B4A00B6F576 /* AppDelegate.swift in Sources */,
 				CDC0A6262BBB8B4A00B6F576 /* SceneDelegate.swift in Sources */,
